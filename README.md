@@ -5,7 +5,7 @@ Introduction:
 This repository contains the code and documentation for a comprehensive analysis of store sales data. The primary goal of this project is to gain insights into sales patterns, identify trends, and make data-driven recommendations to optimize business performance.
 
 Data:
-The dataset used for this analysis comprises [provide details about the dataset, such as its source, structure, and variables]. It includes information on [list key features, e.g., date, product ID, sales amount].
+The dataset used for this analysis  [it is a spreadsheet of singh store i  download it from kaggle]. It includes information on [ key features, e.g., date, order ID,  amount,e.t.c].
 
 Tools and Technologies:
 The analysis is conducted using Microsoft Excel, leveraging its powerful data manipulation and visualization capabilities. Excel functions, pivot tables, and charts are employed to explore and interpret the dataset.
@@ -42,5 +42,5 @@ Based on the analysis, the following recommendations are proposed:
 Target Women customers of age group (30-49) years living in maharastra karnatka and uttar pardesh
 by showing offers on amazon flipkart and myntra.
 Usage:
-The Excel file (sales_analysis.xlsx) contains all the analysis results and visualizations.
+The Excel file (Singh store.xlsx) contains all the analysis results and visualizations.
 Users can explore the dataset, follow the analysis steps, and leverage the findings for decision-making.
